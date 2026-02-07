@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NetEnum.vcxproj" Id="a2879210-7683-4ab4-83c4-fefa041b92ec" />
+</Solution>
