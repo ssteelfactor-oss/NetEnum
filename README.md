@@ -5,5 +5,6 @@ A lightweight utility for passively discovering and enumerating computers in a l
 - Uses COM interfaces  
 - Queries LDAP://rootDSE  
 - Written in pure C (no external dependencies)
-
+- No privilege/admin rights required
+  
 **For educational and research purposes only.**
